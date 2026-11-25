@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+out/
+kit.tar.gz
+kit-headers.txt
+u-deranalabs-invent-a-word-we-need-17a020e0-kit/
+makefun-keypair.json
